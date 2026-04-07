@@ -12,46 +12,34 @@ From data cleaning and exploration to building dashboards and predictive models,
 &emsp;
 
 -------------------
-<h2> SKILLS </h2>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💻 Programming & Querying</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      </p>
-      <h3>📊 Data Analysis</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📈 Data Visualization</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
-        <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-      </p>
-      <h3>📐 Statistics & Analytics</h3>
-      <p>
-        <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-statistics-data-science-flat-flat-juicy-fish.png" width="40"/>
-      </p>
-      <h3>🛠️ Tools & Technologies</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-      </p>
-      <h3>🧩 Business & Data Thinking</h3>
-      <p>
-        📊 KPI Design & Tracking <br>
-        📈 Data-Driven Decision Making <br>
-        💡 Business Analysis
-      </p>
-    </td>
-  </tr>
-</table>
+&emsp;
+<a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/">
+    <img src="https://img.shields.io/github/followers/?label=follow&style=social"/>
+</a>
+
+&emsp;
+
+## 🛠️ My Skills
+-------------------
+
+&emsp;
+<img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
+<img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
+<img src="https://img.shields.io/badge/-Pandas-000?&logo=Pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-000?&logo=NumPy"/>
+<img src="https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI"/>
+<img src="https://img.shields.io/badge/-Tableau-000?&logo=Tableau"/>
+<img src="https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel"/>
+<img src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
+<img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub"/>
+<img src="https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter"/>
+<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"/>
+<img src="https://img.shields.io/badge/-Statistics-000?&logo=Databricks"/>
+<img src="https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow"/>
+<img src="https://img.shields.io/badge/-Data%20Visualization-000?&logo=Plotly"/>
+<img src="https://img.shields.io/badge/-Data%20Analysis-000?&logo=Apache-Spark"/>
+<img src="https://img.shields.io/badge/-Business%20Analysis-000?&logo=Google-Analytics"/>
