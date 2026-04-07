@@ -1,6 +1,6 @@
 <h1 align="center"> Juliana Saldaña </h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://github.com/julianacsaldana/julianacsaldana/blob/main/foto%20fondo.png" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
