@@ -16,14 +16,12 @@ From data cleaning and exploration to building dashboards and predictive models,
 <table>
   <tr>
     <td valign="top" width="50%">
-
       <h3>💻 Programming & Querying</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
       </p>
-
       <h3>📊 Data Analysis</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
@@ -37,12 +35,10 @@ From data cleaning and exploration to building dashboards and predictive models,
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
         <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
       </p>
-
       <h3>📐 Statistics & Analytics</h3>
       <p>
         <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-statistics-data-science-flat-flat-juicy-fish.png" width="40"/>
       </p>
-
       <h3>🛠️ Tools & Technologies</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
@@ -50,14 +46,12 @@ From data cleaning and exploration to building dashboards and predictive models,
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
       </p>
-
       <h3>🧩 Business & Data Thinking</h3>
       <p>
         📊 KPI Design & Tracking <br>
         📈 Data-Driven Decision Making <br>
         💡 Business Analysis
       </p>
-
     </td>
   </tr>
 </table>
