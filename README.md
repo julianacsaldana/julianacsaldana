@@ -10,9 +10,8 @@
     From data cleaning and exploration to building dashboards and predictive models, I am passionate about transforming data into value for organizations.
 </h4>
 &emsp;
-<a href="https://www.linkedin.com/">
-    <img src="https://www.linkedin.com/in/julianasaldana/"/>
-    https://www.linkedin.com/in/julianasaldana/
+<a href="https://www.linkedin.com/in/julianasaldana/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 ------
 <h3 align='left'>My Skills </h3> 
