@@ -4,22 +4,20 @@
 
 -------------------
 &emsp;
-<h4 align="left">Industrial Engineer transitioning into Data Analysis. I have experience in financial, logistics, and operational environments, where I developed a strong analytical mindset and attention to detail.
-
-I strongly believe that data provides context, clarity, and direction enabling informed decisions and strategic thinking. I enjoy working with data not only to analyze it, but to understand the story behind it and turn it into meaningful insights.
-
-From data cleaning and exploration to building dashboards and predictive models, I am passionate about transforming data into value for organizations.</h4>
+<h4 align="left">
+    Industrial Engineer transitioning into Data Analysis. I have experience in financial, logistics, and operational environments, where I developed a strong analytical mindset and attention to detail.
+    I strongly believe that data provides context, clarity, and direction enabling informed decisions and strategic thinking. I enjoy working with data not only to analyze it, but to understand the story behind it and turn it into meaningful insights.
+    From data cleaning and exploration to building dashboards and predictive models, I am passionate about transforming data into value for organizations.
+</h4>
 &emsp;
 <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-    <img src="https://img.shields.io/github/followers/?label=follow&style=social"/>
+    <img src="https://www.linkedin.com/in/julianasaldana/"/>
+    https://www.linkedin.com/in/julianasaldana/
 </a>
 ------
 <h3 align='left'>My Skills </h3> 
 -------------------
-##### 💻 Programming & Data Handling
+<h4 align='left'>Programming & Data Handling</h4> 
 &emsp;
 <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
 <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
