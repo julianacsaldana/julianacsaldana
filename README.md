@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center"> Juliana Saldaña </h1>
 
-<!--
-**julianacsaldana/julianacsaldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
-Here are some ideas to get you started:
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------
+&emsp;
+
+- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
+- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+
+- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+
+- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+
+&emsp;
