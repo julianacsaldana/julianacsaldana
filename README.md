@@ -10,68 +10,31 @@ I strongly believe that data provides context, clarity, and direction enabling i
 
 From data cleaning and exploration to building dashboards and predictive models, I am passionate about transforming data into value for organizations.</h4>
 &emsp;
-&emsp;
 <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/">
     <img src="https://img.shields.io/github/followers/?label=follow&style=social"/>
 </a>
-
-&emsp;
-<h3 align="left"> My Skills </h3>
-&emsp;
-<img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
-<img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
-<img src="https://img.shields.io/badge/-Pandas-000?&logo=Pandas"/>
-<img src="https://img.shields.io/badge/-NumPy-000?&logo=NumPy"/>
-<img src="https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI"/>
-<img src="https://img.shields.io/badge/-Tableau-000?&logo=Tableau"/>
-<img src="https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel"/>
-<img src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
-<img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub"/>
-<img src="https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter"/>
-<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5"/>
-<img src="https://img.shields.io/badge/-Statistics-000?&logo=Databricks"/>
-<img src="https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow"/>
-<img src="https://img.shields.io/badge/-Data%20Visualization-000?&logo=Plotly"/>
-<img src="https://img.shields.io/badge/-Data%20Analysis-000?&logo=Apache-Spark"/>
-<img src="https://img.shields.io/badge/-Business%20Analysis-000?&logo=Google-Analytics"/>
-
 ------
-&emsp;
-<a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-    <img src="https://img.shields.io/github/followers/?label=follow&style=social"/>
-</a>
-
-&emsp;
-
-## 🛠️ My Skills
+<h3 align='left'>My Skills </h3> 
 -------------------
-
-### 💻 Programming & Data Handling
+##### 💻 Programming & Data Handling
 &emsp;
 <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
 <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL"/>
 <img src="https://img.shields.io/badge/-Pandas-000?&logo=Pandas"/>
 <img src="https://img.shields.io/badge/-NumPy-000?&logo=NumPy"/>
-
-### 📊 Data Visualization & BI Tools
+##### 📊 Data Visualization & BI Tools
 &emsp;
 <img src="https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI"/>
 <img src="https://img.shields.io/badge/-Tableau-000?&logo=Tableau"/>
-
-### 🤖 Machine Learning & Statistics
+##### 🤖 Machine Learning & Statistics
 &emsp;
 <img src="https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn"/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow"/>
 <img src="https://img.shields.io/badge/-Statistics-000?&logo=Databricks"/>
-
-### 🛠️ Tools & Technologies
+##### 🛠️ Tools & Technologies
 &emsp;
 <img src="https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel"/>
 <img src="https://img.shields.io/badge/-Git-000?&logo=Git"/>
